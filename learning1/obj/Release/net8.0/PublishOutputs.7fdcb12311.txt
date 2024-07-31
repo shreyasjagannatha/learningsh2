@@ -1,0 +1,7 @@
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\learning1.exe
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\appsettings.Development.json
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\appsettings.json
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\learning1.dll
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\learning1.deps.json
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\learning1.runtimeconfig.json
+C:\Users\h186308\Desktop\Shreyas\Java study\Microsoft Azure Developer\Azure practice\learning1\bin\Publish\learning1.pdb
